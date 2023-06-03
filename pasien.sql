@@ -77,21 +77,3 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 
-
-
-- User bisa melihat list Pasien dengan menekan WIW yang ada di navbar
-- User bisa menambah pasien dengan menekan tombol add new
-  - User menekan add new
-  - User diberi form
-  - User mengisi form
-  - User menekan tombol submit
-  - Pasien baru telah berhasil ditambahkan
-- User bisa mengubah data pasien dengan menekan tombol Edit yang ada di pinggir setiap data
-  - User menekan tombol edit
-  - User diberi form yang sudah ada data pasien yang dipilih
-  - User mengubah data
-  - User menekan tombol Update
-  - Data pasien berhasil di-uodate
-- User bisa menghapus data pasien dengan menekan tombol Hapus yang ada di pinggir setiap data
-  - User menekan tombol hapus
-  - Data pasien berhasil dihapus
